@@ -23,4 +23,4 @@ The script [run_analysis.R](https://github.com/fgtech/coursera-getdata/blob/mast
   5. Load the script and run it.
 
 ### About the tidy dataset
-The tidy dataset [tidy_set_with_averages.txt](https://github.com/fgtech/coursera-getdata/blob/master/tidy_set_with_averages.txt) is derived from the "Human Activity Recognition Using Smartphones Data Set". The resulting dataset contains only mean and standard deviation calculations aggregated by subject and activity (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING). The description of the others columns are described in the CodeBook.
+The tidy dataset [tidy_set_with_averages.txt](https://github.com/fgtech/coursera-getdata/blob/master/tidy_set_with_averages.txt) is derived from the "Human Activity Recognition Using Smartphones Data Set". The resulting dataset contains only mean and standard deviation calculations aggregated by subject and activity. The full description of the variables and the transformation is in the [CodeBook.md](https://github.com/fgtech/coursera-getdata/blob/master/CodeBook.md) file.
