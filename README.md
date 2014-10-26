@@ -1,7 +1,7 @@
 ## Getting and Cleaning Data Course Project
 
 ### Introduction
-This repository contains my work for the course project for the Coursera course "Getting and Cleaning data".
+This repository contains my work for the course project for the Coursera course ["Getting and Cleaning data"](https://class.coursera.org/getdata-008/).
 
 ### About the raw data
 The raw data "Human Activity Recognition Using Smartphones Data Set" was originally made available here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.
