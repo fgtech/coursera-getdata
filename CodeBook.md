@@ -33,8 +33,8 @@ These signals were used to estimate variables of the feature vector for each pat
 - fBodyGyroJerkMag
 
 The set of variables that were estimated from these signals are: 
-- mean(): Mean 
-- std(): Standard deviation
+- Mean: Mean 
+- Std: Standard deviation
 
 
 ### Transformation
